@@ -1,6 +1,6 @@
-# backdrop_widget
+# Backdrop Example
 
-A new Flutter project.
+Flutter Backdrop Example
 
 ## Getting Started
 
